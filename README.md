@@ -5,5 +5,6 @@ About:
   https://openai.com/product/gpt-4 
   GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses. 
   Chat with a GPT-4 using the following links:
-     https://freechatgpt.chat/
+     https://freechatgpt.chat/ 
+     or 
      https://bettergpt.chat/
